@@ -1,6 +1,6 @@
 '''
-This script controls a VEX V5 robot with tank drive.
-Two motors are attached to a brain and controlled by two joysticks.
+This script controls a VEX V5 robot.
+Use this as a starting point for your code.
 '''
 
 # Import the necessary libraries
@@ -31,3 +31,4 @@ print("\033[2J")
 
 # Code that runs the robot
 while True:
+    pass
