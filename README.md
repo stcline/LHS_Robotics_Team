@@ -1,6 +1,6 @@
 <div style="text-align:center"><img src="https://github.com/user-attachments/assets/e717af9d-d503-47d5-9b40-22d34f7b9221" width="300" /></div>
 
-# LHS_Robotics_Team
+# LHS Robotics Team Resources
 
 [VEX V5 Game Manual](https://v5rc-kb.recf.org/hc/en-us/categories/23182894404119-2024-2025-High-Stakes-Game-Manual)
 
