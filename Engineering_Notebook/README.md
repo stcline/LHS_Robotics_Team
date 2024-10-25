@@ -7,3 +7,4 @@ These pages are for your team to use to make your engineering notebook as comple
 - [Get Started Notebooking](https://kb.roboticseducation.org/hc/en-us/articles/8374007847575-Get-Started-Notebooking) (Be sure to watch the videos!)
 - [Guide to Judging](https://kb.roboticseducation.org/hc/en-us/articles/4969763478167-Guide-to-Judging-Judging-Engineering-Notebooks)
 - [Engineering Notebook Rubric](https://kb.roboticseducation.org/hc/en-us/articles/4461349729047)
+- [Notebook Template](https://docs.google.com/presentation/d/1D2VpUOFFWM5624TscPynqjVCSlgCgOLEztJjLUq7Nko/edit?usp=sharing)
