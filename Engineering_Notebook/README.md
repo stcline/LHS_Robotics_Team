@@ -4,7 +4,6 @@ Documenting work in an Engineering Notebook is a widely used engineering and des
 
 These pages are for your team to use to make your engineering notebook as complete as possible.  It is a very important criteria for every competition.  Any LHS team who wishes to compete will need to have a complete notebook.
 
-- [VEX Students Start Here](https://kb.roboticseducation.org/hc/en-us/articles/8373753632407-VEX-Students-Start-Here)
 - [Get Started Notebooking](https://kb.roboticseducation.org/hc/en-us/articles/8374007847575-Get-Started-Notebooking) (Be sure to watch the videos!)
 - [Guide to Judging](https://kb.roboticseducation.org/hc/en-us/articles/4969763478167-Guide-to-Judging-Judging-Engineering-Notebooks)
 - [Engineering Notebook Rubric](https://kb.roboticseducation.org/hc/en-us/articles/4461349729047)
