@@ -13,7 +13,7 @@ brain=Brain()
 controller=Controller()
 
 # Robot configuration code
-motorRight = Motor(Ports.PORT1, GearSetting.RATIO_18_1, True)
+motorRight = Motor(Ports.PORT11, GearSetting.RATIO_18_1, True)
 motorLeft = Motor(Ports.PORT2, GearSetting.RATIO_18_1, False)
 
 # wait for rotation sensor to fully initialize
