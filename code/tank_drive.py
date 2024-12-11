@@ -14,7 +14,7 @@ controller=Controller()
 
 # Robot configuration code
 motorRight = Motor(Ports.PORT11, GearSetting.RATIO_18_1, True)
-motorLeft = Motor(Ports.PORT2, GearSetting.RATIO_18_1, False)
+motorLeft = Motor(Ports.PORT20, GearSetting.RATIO_18_1, False)
 
 # wait for rotation sensor to fully initialize
 wait(30, MSEC)
