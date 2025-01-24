@@ -1,4 +1,5 @@
-## Attention Teams! - Time to review the [Inspection Form](https://github.com/stcline/LHS_Robotics_Team/blob/main/V5RC%20High%20Stakes%20Robot%20Inspection%20Checklist_v3_2024-10-11.pdf)
+## Attention Teams! - Before our competition, review this article about [Competition Code](https://kb.vex.com/hc/en-us/articles/13627224078484-Using-the-Python-Competition-Template-in-VEXcode-V5)
+
 
 
 <div style="text-align:center"><img src="https://github.com/user-attachments/assets/e717af9d-d503-47d5-9b40-22d34f7b9221" width="300" /></div>
